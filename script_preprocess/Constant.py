@@ -1,0 +1,1 @@
+WORDLEN=4
